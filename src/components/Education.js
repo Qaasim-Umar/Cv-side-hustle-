@@ -3,8 +3,11 @@ import React from 'react';
 
 
 function edu() {
-  return(<div className="con" >
+  return(<div className="contact" >
 <p>Omayr010@gmail.com</p>
+<p>9121573754 </p>
+<p>Remote</p>
+<p>Omarqaasim.netlify.com</p>
   </div>
   )
   }
