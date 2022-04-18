@@ -4,7 +4,10 @@
   font-size: 33px;
 }
 
+.geni p{
 
+line-height: 0.1;
+}
 a{
   text-decoration: none;
   color: aliceblue;
@@ -19,7 +22,7 @@ background-color:darkblue;
 width:auto;
 text-decoration: none;
 text-align: end;
-line-height: 0.2;
+
 color: aliceblue;
 
 }

@@ -3,6 +3,7 @@ import React from 'react' ;
 
 function Gen() {
 return(<div className="geni" >
+  <img src="prof.jpg"/>
   <big>Qaasim OMar</big>
   <br/>
 <p> FrontEnd Developer</p>
