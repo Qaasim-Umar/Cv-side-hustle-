@@ -22,3 +22,10 @@ width:auto;
 line-height: 1.2;
 text-decoration: none;
 }
+.sum{
+max-width: 50%;
+
+}
+.sum p{
+  text-align: center;
+}

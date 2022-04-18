@@ -2,14 +2,27 @@ import React from 'react';
 
 function sum() {
   return(<div className="sum" >
-<h2>Summary</h2>
-<p>I Am A Passionate And A Self Motivated Person Who Likes To Meet New People And Learn New Things Everyday Of My Life.  I Am Very Interested In Techspace And Always Looking For Challenges And Opportunities To Grow My Skills. I Have A Few Friends And I'm Very Open To New Friends </p>
+<h3>EXPERTISE </h3>
+<ul>
+<li>Html</li>
+<li>Css</li>
+<li>Tailwind </li>
+<li>Javascript </li>
+<li>React js</li>
+</ul>
+<h3>EDUCATION</h3>
+<hr/>
+<p>Year 2019 till Date - -
+  Usmanu Danfodiyo University <br/>
+  Bachelor...Computer science
+  </p>
 
-<hr/>
-<h2>Education</h2>
-<hr/>
-<p>School : Usmanu Danfodio University </p>
-<p>course : Computer Science</p>
+  <p>Year 2013 - 2016 - -
+  SSCE Olayemi comprehensive college
+  </p>
+
+  <h3> REFERENCE </h3>
+  <p>Refree available on request </p>
   </div>
   )
   }
