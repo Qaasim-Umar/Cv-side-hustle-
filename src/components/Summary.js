@@ -2,7 +2,7 @@ import React from 'react';
 
 function sum() {
   return(<div className="sum" >
-<h3>EXPERTISE </h3>
+<h3 align="center">EXPERTISE </h3>
 <ul>
 <li>Html</li>
 <li>Css</li>
@@ -10,7 +10,7 @@ function sum() {
 <li>Javascript </li>
 <li>React js</li>
 </ul>
-<h3>EDUCATION</h3>
+<h3 align="center">EDUCATION</h3>
 <hr/>
 <p>Year 2019 till Date - -
   Usmanu Danfodiyo University <br/>
@@ -21,7 +21,7 @@ function sum() {
   SSCE Olayemi comprehensive college
   </p>
 
-  <h3> REFERENCE </h3>
+  <h3 align="center"> REFERENCE </h3>
   <p>Refree available on request </p>
   </div>
   )
