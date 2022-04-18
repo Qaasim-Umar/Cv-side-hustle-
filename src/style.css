@@ -1,22 +1,15 @@
 
 
-.geni p {
-  
-  color:aliceblue;
-  text-align: right;
-  margin: auto;
-  
+.geni big{
+  font-size: 33px;
 }
+
+
 a{
   text-decoration: none;
   color: aliceblue;
 }
 
-.geni big{
-  font-size: 24px;
-  color: aliceblue;
-
-}
 
 .geni{
 border-radius: 4px;
@@ -24,8 +17,11 @@ padding:10px;
 height: 90px;
 background-color:darkblue;
 width:auto;
-line-height: 1.2;
 text-decoration: none;
+text-align: end;
+line-height: 0.2;
+color: aliceblue;
+
 }
 .sum{
 max-width: 50%;
