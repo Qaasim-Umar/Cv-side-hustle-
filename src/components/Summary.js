@@ -1,7 +1,11 @@
 import React from 'react';
 
 function sum() {
-  return(<div className="sum" >
+  return(
+  
+  
+  <div className="sum" >
+    <hr/>
 <h3 align="center">EXPERTISE </h3>
 <ul>
 <li>Html</li>
@@ -10,6 +14,7 @@ function sum() {
 <li>Javascript </li>
 <li>React js</li>
 </ul>
+<hr/>
 <h3 align="center">EDUCATION</h3>
 <hr/>
 <p>Year 2019 till Date - -
@@ -20,7 +25,7 @@ function sum() {
   <p>Year 2013 - 2016 - -
   SSCE Olayemi comprehensive college
   </p>
-
+<hr/>
   <h3 align="center"> REFERENCE </h3>
   <p>Refree available on request </p>
   </div>
