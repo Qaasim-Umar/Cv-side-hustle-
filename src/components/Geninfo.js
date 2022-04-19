@@ -8,7 +8,7 @@ return(<div className="geni" >
   <br/>
 <p> FrontEnd Developer</p>
 <p>Gamer And A Techie </p>
-<p><a href="">Omarqaasim.netlify.com</a></p>
+<p><a href="https://omarqaasim.netlify.app/">Omarqaasim.netlify.com</a></p>
 </div>
 )
 }
