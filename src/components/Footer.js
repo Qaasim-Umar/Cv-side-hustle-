@@ -1,8 +1,13 @@
 import React from 'react';
 
 function exp() {
-  return(<div className="exp" >
-<h1>Experience</h1>
+  return(<div className="foot" >
+<footer>
+  <hr/>
+  <p>© 2022<br/>
+  <a href="">Omarqaasim.netlify.com</a>
+</p>
+</footer>
   </div>
   )
   }
