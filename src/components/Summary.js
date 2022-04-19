@@ -7,6 +7,7 @@ function sum() {
   <div className="sum" >
     <hr/>
 <h3 align="center">EXPERTISE </h3>
+<hr/>
 <ul>
 <li>Html</li>
 <li>Css</li>
@@ -14,6 +15,7 @@ function sum() {
 <li>Javascript </li>
 <li>React js</li>
 </ul>
+
 <hr/>
 <h3 align="center">EDUCATION</h3>
 <hr/>
