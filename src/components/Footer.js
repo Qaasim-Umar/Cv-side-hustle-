@@ -5,7 +5,7 @@ function exp() {
 <footer>
   <hr/>
   <p>© 2022<br/>
-  <a href="">Omarqaasim.netlify.com</a>
+  <a href="https://omarqaasim.netlify.app/">Omarqaasim.netlify.com</a>
 </p>
 </footer>
   </div>
