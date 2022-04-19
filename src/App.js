@@ -2,7 +2,7 @@ import React from "react";
 import "./style.css";
 import Geninfo from "./components/Geninfo.js";
 import Education from "./components/Education.js" ;
-import Experience from "./components/Experience.js"; 
+import Footer from "./components/Footer.js"; 
 import Summary from "./components/Summary.js" ;
 
 export default function App() {
@@ -11,7 +11,7 @@ export default function App() {
       <Geninfo/>
       <Summary/>
      <Education/>
-     <Experience/>
+     <Footer/>
     </div>
   );
 }
