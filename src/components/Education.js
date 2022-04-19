@@ -6,7 +6,7 @@ function edu() {
   
   return(<div className="contact" >
     <hr/>
-    <h3>CONTACT</h3>
+    <h3 align="center">CONTACT</h3>
     <hr/>
 <p>Omayr010@gmail.com</p>
 <p>9121573754 </p>
