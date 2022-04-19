@@ -3,7 +3,7 @@
   color: aliceblue;
 }
 .contact{
-  background-color: aliceblue;
+  
   border-radius: 4px;
   text-align: center;
   padding: auto;
@@ -12,6 +12,8 @@
 .foot{
 text-align: center;
 background-color: darkblue;
+border-radius: 4px;
+height: 80px;
 
 }
 
@@ -40,7 +42,6 @@ color: aliceblue;
 }
 .sum{
 
-background-color:aliceblue;
 border-radius: 4px;
 }
 .sum p{
