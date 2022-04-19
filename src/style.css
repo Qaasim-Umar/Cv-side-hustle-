@@ -12,6 +12,10 @@ a{
 }
 
 
+ul{
+
+  list-style-type: circle;
+}
 .geni{
 border-radius: 4px;
 padding:10px;

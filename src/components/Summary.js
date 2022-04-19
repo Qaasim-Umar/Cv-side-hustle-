@@ -8,7 +8,7 @@ function sum() {
     <hr/>
 <h3 align="center">EXPERTISE </h3>
 <hr/>
-<ul>
+<ul align="center">
 <li>Html</li>
 <li>Css</li>
 <li>Tailwind </li>
