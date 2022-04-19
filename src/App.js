@@ -5,14 +5,14 @@ import Education from "./components/Education.js" ;
 import Footer from "./components/Footer.js"; 
 import Summary from "./components/Summary.js" ;
 
-import Logo from "./components/Logo.jpg" ;
+import Logo from "./Logo.png" ;
 
 
 
 export default function App() {
   return (
     <div>
-      <img src={Logo}/>
+      
       <Geninfo/>
       <Summary/>
      <Education/>
