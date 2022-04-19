@@ -13,7 +13,7 @@
 text-align: center;
 background-color: darkblue;
 border-radius: 4px;
-height: 80px;
+
 
 }
 
@@ -35,7 +35,6 @@ ul{
 .geni{
 border-radius: 4px;
 padding:10px;
-height: 150px;
 background-color:darkblue;
 color: aliceblue;
 
