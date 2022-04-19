@@ -5,7 +5,7 @@ import Education from "./components/Education.js" ;
 import Footer from "./components/Footer.js"; 
 import Summary from "./components/Summary.js" ;
 
-import "./Pp.jpg" ;
+import "./components/Pp.jpg" ;
 
 
 
