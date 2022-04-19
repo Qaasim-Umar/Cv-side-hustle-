@@ -5,6 +5,7 @@ import Education from "./components/Education.js" ;
 import Footer from "./components/Footer.js"; 
 import Summary from "./components/Summary.js" ;
 
+
 export default function App() {
   return (
     <div>
